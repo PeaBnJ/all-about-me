@@ -3,7 +3,7 @@ Berikut cara saya melakukan review: menggunakan ChatGPT <br>
 Saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :<br>
 "self assess uts-1 sampai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
-Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/rekap_UTS.csv).
+Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](https://drive.google.com/uc?export=download&id=1ltdijxNsITAzwXbkyjWIUYM4L9Oge6cG).
 
 # Hasil Self-Assessment UTS (URL: https://peabnj.github.io/all-about-me/)
 
