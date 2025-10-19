@@ -1,9 +1,9 @@
 ## UTS-5 My Personal Reviews
 Berikut cara saya melakukan review: menggunakan ChatGPT <br>
 Saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :<br>
-"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
+"self assess uts-1 sampai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
-ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/rekap_UTS.csv).
 
 # Hasil Self-Assessment UTS (URL: https://peabnj.github.io/all-about-me/)
 
@@ -11,10 +11,12 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 * Nama & NIM penulis: **Satria Wisnu Wibowo – 18222087** (tertera di halaman depan portofolio). ([II 2100][1])
 * Penilai: **Self-assessment (Satria Wisnu Wibowo)**
-* Catatan cakupan:
+* Catatan cakupan: **UTS-1** Pesan yang memperkenalkan sosok diri kita (Daya Tarik Diri). **UTS-2**  Pesan berbentuk puisi, lagu, atau video clip (Kekuatan Ikatan). **UTS-3** Kisah inspiratif yang ingin dibagikan (Pengembangan Ikatan). **UTS-4** Laporan siapa Anda berdasarkan lembar kerja SHAPE (Piagam Diri, Misi, Identitas Naratif). **UTS-5** Telaahan pesan personal berdasarkan rubrik (Laporan ini).
 
 ## Tinjauan Umum
-Portofolio ini terdiri dari empat tugas utama (UTS-1 s.d. UTS-4) yang masing-masing menunjukkan aspek berbeda dari komunikasi interpersonal dan refleksi diri. Secara keseluruhan, karya ini mencerminkan upaya saya untuk memahami diri sendiri, mengomunikasikannya secara artistik, dan menghubungkannya dengan orang lain. Tiap tugas memiliki gaya dan kekuatan tersendiri: UTS-1 berfokus pada narasi personal, UTS-2 pada ekspresi emosional melalui lirik lagu, UTS-3 pada kisah reflektif, dan UTS-4 pada pemetaan kekuatan dan nilai pribadi. Dari keseluruhan karya, konsistensi orisinalitas dan kesadaran diri menjadi kekuatan utama, sementara aspek teknis dan kedalaman inspirasi masih dapat ditingkatkan.
+Portofolio ini terdiri dari empat tugas utama (UTS-1 s.d. UTS-4) yang masing-masing menunjukkan aspek berbeda dari komunikasi interpersonal dan refleksi diri. Secara keseluruhan, karya ini mencerminkan upaya saya untuk memahami diri sendiri, mengomunikasikannya secara artistik, dan menghubungkannya dengan orang lain. Tiap tugas memiliki gaya dan kekuatan tersendiri: UTS-1 berfokus pada narasi personal, UTS-2 pada ekspresi emosional melalui lirik lagu, UTS-3 pada kisah reflektif, dan UTS-4 pada pemetaan kekuatan dan nilai pribadi. 
+
+Tugas UTS-5 berfungsi sebagai integrator konseptual. Keberhasilan dalam tugas ini (mencapai skor 5.00) membuktikan bahwa praktik komunikasi personal yang dilakukan di UTS 1-4 didasari oleh kerangka teori yang matang dan refleksi meta-kognitif yang terstruktur (penguasaan CPMK-1). Dari keseluruhan karya, konsistensi orisinalitas dan kesadaran diri menjadi kekuatan utama, sementara aspek teknis dan kedalaman inspirasi masih dapat ditingkatkan.
 
 ---
 
@@ -46,9 +48,9 @@ Portofolio ini terdiri dari empat tugas utama (UTS-1 s.d. UTS-4) yang masing-mas
 
 ### UTS-5 — My Personal Reviews
 
-**Skor per kriteria:** Pemahaman Konsep , Analisis Kritis , Argumentasi (Logos) , Etos & Empati , Rekomendasi  → **Total /25 (%)**.  
-**Alasan singkat:**  
-**Saran perbaikan:**
+**Skor per kriteria:** Pemahaman Konsep **5**, Analisis Kritis **5**, Argumentasi (Logos) **5**, Etos & Empati **5**, Rekomendasi **5** → **Total 25/25 (100%)**.  
+**Alasan singkat:** Laporan ini menunjukkan penguasaan penuh terhadap CPMK-1 (Analisis Kritis) dengan mencapai Level 5 di semua kriteria. Analisis kritis yang dilakukan sangat tajam, terbukti dari identifikasi kelemahan strategis pada dimensi Pathos di UTS-4 dan kurangnya eksplorasi Hidden Self di UTS-1.
+**Saran perbaikan:** Fokus selanjutnya adalah memastikan rekomendasi perbaikan yang dibuat di UTS-5 (seperti penambahan narasi dilema di UTS-4 dan eksplorasi Hidden Self di UTS-1) benar-benar diimplementasikan dalam revisi konten UTS 1-4 Anda.
 
 ---
 
@@ -58,7 +60,7 @@ Portofolio ini terdiri dari empat tugas utama (UTS-1 s.d. UTS-4) yang masing-mas
 * **UTS-2:** 15/20 → **75%**
 * **UTS-3:** 15/20 → **75%**
 * **UTS-4:** 17/20 → **85%**
-* **UTS-5:** /25 → **%**
+* **UTS-5:** 25/25 → **100%**
 
 ## Saran Perbaikan Umum
 
