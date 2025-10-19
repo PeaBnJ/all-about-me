@@ -1,8 +1,3 @@
----
-title: "Selamat Datang"
-format: html
----
-
 # Selamat Datang {.unnumbered}
 
 <style>
