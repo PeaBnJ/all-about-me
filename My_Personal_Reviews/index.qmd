@@ -1,5 +1,7 @@
 ## UTS-5 My Personal Reviews
-Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
+Berikut cara saya melakukan review: menggunakan ChatGPT <br>
+Saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :<br>
+"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
 
@@ -7,13 +9,13 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda
 
 ## Identifikasi
 
-* Nama & NIM penulis: **Armein Z. R. Langi – 131902360** (tertera di halaman depan portofolio). ([II 2100][1])
-* Penilai: **Self-assessment (Armein Z. R. Langi)**
-* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
+* Nama & NIM penulis: **Satria Wisnu Wibowo – 18222087** (tertera di halaman depan portofolio). ([II 2100][1])
+* Penilai: **Self-assessment (Satria Wisnu Wibowo)**
+* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia.
 
 ## Tinjauan Umum
 
-* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
+* **UTS-1 (All About Me)** Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
 * **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. ([II 2100][2])
 * **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. ([II 2100][3])
 * **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi. ([II 2100][4])
