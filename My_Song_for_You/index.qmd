@@ -10,6 +10,8 @@ Catatan: Untuk mempercepat proses pembuatan, **pembuatan lagu menggunakan Udio A
 	Your browser does not support the audio element.
 </audio>
 
+> **Disclaimer:** I do not endorse AI-generated art as a replacement for human creativity. The music on this page was generated using AI tool only to speed up production; it is included here for demonstration and convenience.
+
 ### Lirik
 
 > **[Verse 1]**  
