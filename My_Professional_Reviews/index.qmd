@@ -1,1 +1,53 @@
-## UAS-5 My Professional Reviews
+# UAS-5 My Professional Reviews
+
+## Peer assessment
+
+Download file:
+
+- Rekap skor peer review UTS: [Download Excel skor UAS](18222087_UAS-5_Skor.xlsx)
+
+## Self-assessment 
+
+### UAS_1_My_Concepts
+
+**Analisis Konten:** Membahas "Ketidaksetaraan Global sebagai Masalah Sistemik di Era AI". Argumen sangat koheren dalam menghubungkan teknologi AI dengan kesenjangan ekonomi.
+
+| Criterion | Skor | Level Description (Rubric) |
+| :--- | :--- | :--- |
+| Clarity | 5 | Sangat jelas, tanpa ambigu |
+| Logic | 5 | Sangat logis & koheren |
+| Validity | 4 | Didukung |
+| Usefulness | 5 | Sangat bermanfaat & aplikatif |
+
+### UAS_2_My_Opinions
+
+**Analisis Konten:** Berpendapat bahwa AI memperparah ketidaksetaraan tanpa desain etis. Konten ini persuasif karena menyoroti pergeseran dari efisiensi pasar ke keadilan sosial.
+
+| Criterion | Skor | Level Description (Rubric) |
+| :--- | :--- | :--- |
+| Compelling | 5 | Sangat memikat |
+| Informative | 4 | Informatif |
+| Persuasive | 5 | Sangat meyakinkan |
+| Engaging | 5 | Sangat melibatkan (emosi & nalar) |
+
+### UAS_3_My_Innovation
+
+**Analisis Konten:** Mengusulkan "Sistem Pemerataan Kapabilitas Berbasis AI". Inovasi ini memiliki aktor dan alur kerja yang jelas (*profiling* hingga *feedback loop*).
+
+| Criterion | Skor | Level Description (Rubric) |
+| :--- | :--- | :--- |
+| Nilai Guna (Value Creation) | 5 | Sangat tinggi, multi‑pihak |
+| Kebaruan | 4 | Baru |
+| Desain & Kelayakan | 5 | Sangat layak & terukur |
+| Dampak terhadap KIPP (CPMK) | 5 | Sangat relevan & kuat |
+
+### UAS_4_My_Knowledge
+
+**Analisis Konten:** Menjelaskan landasan keilmuan mulai dari socio-technical system, AI, hingga Capability Approach. Sangat terkurasi dan memiliki rujukan yang jelas.
+
+| Criterion | Skor | Level Description (Rubric) |
+| :--- | :--- | :--- |
+| Kurasi Pengetahuan | 5 | Sangat baik & kredibel |
+| Keterjelasan Penyajian Publik | 5 | Sangat jelas (publik‑friendly) |
+| Akurasi & Sumber | 5 | Sangat akurat & rujukan kuat |
+| Daya Guna bagi Publik | 4 | Berguna |
