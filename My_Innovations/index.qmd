@@ -1,1 +1,53 @@
 # UAS-3 My Innovations
+
+## Sistem Pemerataan Kapabilitas Berbasis Artificial Intelligence
+
+### Tujuan Sistem
+Mengurangi ketidaksetaraan global dengan meningkatkan kapabilitas individu, bukan sekadar alat bantu.
+
+### Aktor Sistem
+
+* Individu rentan (masyarakat berpenghasilan rendah, pekerja informal, pelajar daerah tertinggal)
+
+* *AI Agent* (sebagai mentor dan asisten kapabilitas)
+
+* Institusi (pemerintah, NGO, perusahaan sosial)
+
+### Cara Kerja Sistem
+
+1. Profil Kapabilitas Individu
+
+    Sistem memetakan kemampuan pengguna (pendidikan, keterampilan, minat, konteks lokal).
+
+2. AI sebagai Capability Mentor
+
+    AI memberikan:
+
+    * Rekomendasi pembelajaran.
+
+    * Simulasi pekerjaan.
+
+    * Pendampingan pengambilan keputusan ekonomi sederhana.
+
+3. Value Creation Pathway
+
+    Pengguna diarahkan untuk:
+
+    * Menghasilkan karya.
+
+    * Meningkatkan produktivitas.
+
+    * Terhubung ke peluang ekonomi digital.
+
+4. Feedback & Adaptation Loop
+
+    AI menyesuaikan pendampingan berdasarkan perkembangan pengguna.
+
+### Peran AI
+AI tidak menggantikan peran manusia, tetapi berfungsi sebagai:
+
+* *Cognitive assistant*.
+
+* *Learning companion*.
+
+* *Decision support system*.

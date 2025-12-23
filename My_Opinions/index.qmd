@@ -1,1 +1,20 @@
-## UAS-2 My Opinions
+# UAS-2 My Opinions
+
+## AI Saat Ini Memperparah Ketidaksetaraan Jika Tidak Direkayasa Secara Etis
+Menurut saya, pendekatan dominan dalam pengembangan AI saat ini terlalu berorientasi pada:
+
+* Efisiensi pasar.
+
+* Optimasi profit.
+
+* Skala pengguna.
+
+Pendekatan ini mengabaikan fakta bahwa tidak semua manusia memulai dari titik yang sama. Ketika AI digunakan tanpa desain sistem yang adil, maka:
+
+* Kelompok berpendidikan tinggi semakin produktif.
+
+* Perusahaan besar semakin dominan.
+
+* Kelompok rentan tertinggal lebih jauh.
+
+Ketidaksetaraan global di era AI bukanlah masalah teknologi, melainkan masalah desain sistem dan kebijakan pemanfaatan teknologi. Jika AI hanya dijadikan alat otomisasi, maka manusia akan tergantikan. Namun, jika AI dirancang sebagai pendamping peningkatan kapasitas manusia, maka ia dapat menjadi instrumen keadilan sosial.

@@ -1,1 +1,22 @@
 # UAS-1 My Concepts
+
+<style>
+.img-border { border:2px solid #333; border-radius:8px; padding:6px; width:50%; height:auto; box-sizing:border-box; }
+</style>
+
+## Ketidaksetaraan Global sebagai Masalah Sistemik di Era AI
+Ketidaksetaraan global bukan sekadar perbedaan pendapatan antarindividu atau antarnegara, melainkan ketimpangan sistemik dalam akses terhadap sumber daya, kesempatan, dan kemampuan untuk menciptakan nilai. Di era *Artificial Intelligence*, ketidaksetaraan ini tidak berkurang, tetapi justru berpotensi semakin melebar.
+
+![Not AI](../images/cat.gif){width=40% fig-align="center" .img-border}
+
+AI berkembang pesat dan menjadi pengganda produktivitas. Namun, hanya kelompok tertentu yang:
+
+* Memiliki akses terhadap teknologi AI.
+
+* Memiliki literasi untuk memanfaatkannya.
+
+* Memiliki posisi ekonomi untuk mengambil nilai tambahnya.
+
+Akibatnya, AI menciptakan fenomena "*winner takes most*", di mana nilai ekonomi dan pengetahuan terakumulasi pada kelompok kecil, sedangkan sebagian besar manusia hanya menjadi pengguna pasif.
+
+Teknologi yang seharusnya menjadi salah satu alat untuk mencapai kesetaraan global, sebaliknya gagal dalam menyelaraskan teknologi, nilai kemanusiaan, dan sistem distribusi manfaat. Oleh karena itu, *masterpiece* ini dibangun atas konsep bahwa AI harus diposisikan sebagai alat pemerataan kapabilitas manusia, bukan sekadar mesin efisiensi ekonomi.
